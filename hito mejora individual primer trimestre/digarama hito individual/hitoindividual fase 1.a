@@ -1,0 +1,18 @@
+Algoritmo hitoindividual
+	Definir nombre,apellidos,email,pais,DNI,dirección,telefóno Como Caracter
+	Escribir "Ingrese su nombre "
+	Leer nombre 
+	Escribir "Ingrese sus apellidos"
+	Leer nombre
+	Escribir "Ingrese su DNI"
+	Leer nombre
+	Escribir "Ingrese su email"
+	Leer nombre
+	Escribir "Ingrese su pais"
+	Leer nombre
+	Escribir "Ingrese su dirección"
+	Leer nombre
+	Escribir  "Ingrese su telefóno"
+	Leer nombre
+	Escribir "Cliente registrado correctamente. Bienvenido"
+FinAlgoritmo
